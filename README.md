@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [a fitness tracking dashboard](https://github.com/NICHOLEMCGREW/fit-dash)
 
+- 👀 I’m interested in Full-Stack Development
+
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - 👨‍💻 My favorite projects are available at [https://nicholemcgrew.netlify.app/](https://nicholemcgrew.netlify.app/)
@@ -15,12 +17,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 <p align="left">
 <a href="https://twitter.com/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 <a href="https://instagram.com/insight.photos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insight.photos" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
