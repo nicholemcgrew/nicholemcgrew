@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <img alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> <img alt="Next js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" /> <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
 
-- 👨‍💻 My portfolio [https://nicholemcgrew.netlify.app/](🌐)
+- 👨‍💻 My portfolio [🌐](https://nicholemcgrew.netlify.app/)
 
 - 💬 Ask me about <img alt="React" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)" style="padding-right:10px;" /> <img alt="Three js" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/threejs/threejs-original-wordmark.svg)" style="padding-right:10px;" />
 
