@@ -60,4 +60,5 @@
 
 ## Watch snake eating my github contributions
 
-![snake gif](https://github.com/NICHOLEMCGREW/NICHOLEMCGREW/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](./assets/github-snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](./assets/github-snake-dark.svg#gh-dark-mode-only)
