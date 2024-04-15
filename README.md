@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React and Three.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nicholemcgrew/**
+- 📫 How to reach me <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
