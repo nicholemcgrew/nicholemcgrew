@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on [a fitness tracking dashboard](https://github.com/NICHOLEMCGREW/fit-dash)
 
-- 👀 I’m interested in Full-Stack Development and building cool things
+- 👀 I’m interested in full-stack development, collaboration, learning, and building cool things.
 
-- 🌱 I’m currently learning <img alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> <img alt="Next js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" /> <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+- 🌱 I’m currently learning  <img alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> <img alt="Next js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" /> <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
 
 - 👨‍💻 My portfolio [🌐](https://nicholemcgrew.netlify.app/)
 
-- 💬 Ask me about <img alt="React" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg)" style="padding-right:10px;" /> <img alt="Three js" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/threejs/threejs-original-wordmark.svg)" style="padding-right:10px;" />
+- 📫 How to reach me  <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 
-- 📫 How to reach me <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
+- 📄 Know about my experiences [💼](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
 ## 🌐 Let's Connect:
 <p align="left">
