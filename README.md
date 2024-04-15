@@ -2,15 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
-👨‍💻 My portfolio  [🌐](https://nicholemcgrew.netlify.app/)
-
 [![](https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=2&color=11)](https://visitcount.itsvg.in)
 
 - 👀 I’m interested in full-stack development, collaboration, learning, and building cool stuff.
 
-- 🌱 I’m currently learning  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🌱 I’m currently learning  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 📫 How to reach me  <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
+- 👨‍💻 Checkout my portfolio  [🌐](https://nicholemcgrew.netlify.app/)
 
 - 💼 Learn about my experiences  [📄](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
