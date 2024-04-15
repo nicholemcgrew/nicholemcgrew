@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Full-Stack Development
 
-- 🌱 I’m currently learning <img alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> <img alt="Next js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" /> <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+- 🌱 I’m currently learning <img alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> <img alt="Next js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
 
 - 👨‍💻 My favorite projects are available at [https://nicholemcgrew.netlify.app/](https://nicholemcgrew.netlify.app/)
 
