@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nichole</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholemcgrew&label=Profile%20views&color=0e75b6&style=flat" alt="nicholemcgrew" /> </p>
+[![](https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=2&color=11)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [a fitness tracking dashboard](https://github.com/NICHOLEMCGREW/fit-dash)
 
