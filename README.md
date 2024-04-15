@@ -57,3 +57,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/NICHOLEMCGREW/NICHOLEMCGREW/blob/output/github-contribution-grid-snake.svg)
