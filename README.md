@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Full-Stack Development
 
-- 🌱 I’m currently learning **Next.js and Typescript** <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+- 🌱 I’m currently learning **Next.js and Typescript** <img alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" /> <img alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
 
 - 👨‍💻 My favorite projects are available at [https://nicholemcgrew.netlify.app/](https://nicholemcgrew.netlify.app/)
 
