@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://nicholemcgrew.netlify.app/](https://nicholemcgrew.netlify.app/)
+- 👨‍💻 My favorite projects are available at [https://nicholemcgrew.netlify.app/](https://nicholemcgrew.netlify.app/)
 
 - 💬 Ask me about **React and Three.js**
 
