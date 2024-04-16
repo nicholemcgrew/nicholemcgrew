@@ -12,6 +12,8 @@ I'm a full-stack developer with a background in operations and finance. I’m a 
 
 - 💼 Learn about my experiences  [📄](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
+- - Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
+
 
 ## 🌎 Let's Connect:
 <p align="left">
@@ -48,9 +50,6 @@ I'm a full-stack developer with a background in operations and finance. I’m a 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-## More About Me:
-- Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicholemcgrew&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
