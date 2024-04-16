@@ -59,6 +59,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## Watch snake eating my github contributions
+![snake gif](https://github.com/nicholemcgrew/nicholemcgrew/blob/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub Snake Light](./assets/github-snake-light.svg#gh-light-mode-only)
-![GitHub Snake Dark](./assets/github-snake-dark.svg#gh-dark-mode-only)
