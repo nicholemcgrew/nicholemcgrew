@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Nichole</h1>
+<h1 align="center">Hi 👋, I'm Nichole</h1>
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
 
