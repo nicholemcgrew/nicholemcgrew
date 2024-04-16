@@ -1,9 +1,10 @@
 # Hi 👋, I'm Nichole 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
+# 💫 About Me:
+I'm a full-stack developer with a background in operations and finance. I’m a life learner and believe that everything is connected and can be built upon; I know a little about a lot. I enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way they do.
 
-I'm a full-stack developer with a background in operations and finance. I’m a life learner and believe that everything is connected and can be built upon; I know a little about a lot. I enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way that they do.
-
+---
 [![](https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=2&color=11)](https://visitcount.itsvg.in)
 
 - 👀 I’m interested in full-stack development, collaboration, learning, and building cool stuff.
