@@ -49,6 +49,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+## More About Me:
+- Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicholemcgrew&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
