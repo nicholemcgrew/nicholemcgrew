@@ -1,7 +1,8 @@
-<h1>Hi 👋, I'm Nichole</h1>
+# Hi 👋, I'm Nichole 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
-<p>I'm a full-stack developer with a background in operations and finance. I’m a life learner and believe that everything is connected and can be built upon; I know a little about a lot. I enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way that they do.</p>
+
+I'm a full-stack developer with a background in operations and finance. I’m a life learner and believe that everything is connected and can be built upon; I know a little about a lot. I enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way that they do.
 
 [![](https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=2&color=11)](https://visitcount.itsvg.in)
 
@@ -14,7 +15,7 @@
 - 💼 Learn about my experiences  [📄](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
 
-## 🌐 Let's Connect:
+## 🌎 Let's Connect:
 <p align="left">
 <a href="https://twitter.com/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicholemcgrew" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicholemcgrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
