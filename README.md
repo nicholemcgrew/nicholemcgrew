@@ -12,7 +12,7 @@ I'm a full-stack developer with a background in operations and finance. I’m a 
 
 - 💼 Learn about my experiences  [📄](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
-- - Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
+- Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
 
 
 ## 🌎 Let's Connect:
