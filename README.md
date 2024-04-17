@@ -1,4 +1,7 @@
-<h1>Hi 👋, I'm Nichole</h1>   
+<h1 style="float: left;">Hi 👋, I'm Nichole</h1>
+<img src="https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=0&color=11" alt="Visit Count" style="float: right;">
+
+
 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
