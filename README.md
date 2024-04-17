@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
 ## About Me
-I'm a full stack developer with a background in operations and finance. I’m a life learner and believe that everything is connected and can be built upon; I know a little about a lot. I enjoy problem solving, exploring ways to make things more efficient and understanding how and why things work the way that they do. When I’m not coding, you can find me reading, hiking, dabbling in photography, and backyard gardening.  
+I'm a full-stack developer with a background in operations and finance. I’m a life learner, and believe that everything is connected and can be built upon; I know a little about a lot. I'm naturally curious and creative, and enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way they do. When I’m not coding, you can find me reading, hiking, dabbling in photography, and gardening.  
 Thanks for checking out my page!
 
 - 👀 I’m interested in full stack development, collaboration, learning, and building cool stuff.
