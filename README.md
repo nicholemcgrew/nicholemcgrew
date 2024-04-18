@@ -1,21 +1,19 @@
-<h1 style="float: left;">Hi 👋, I'm Nichole</h1>
-<img src="https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=0&color=11" alt="Visit Count" style="float: right;">
+# Hi 👋, I'm Nichole <img align="right"  src="https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=0&color=11" alt="Visit Count">
 
 
 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
 ## About Me
-I'm a full-stack developer with a background in operations and finance. I’m a life learner, and believe that everything is connected and can be built upon; I know a little about a lot. I'm naturally curious and creative, and enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way they do. When I’m not coding, you can find me reading, hiking, dabbling in photography, and gardening.  
+I'm a full-stack developer with a background in operations and finance. I’m a life learner, and believe that everything is connected and can be built upon; I know a little about a lot. I'm naturally curious and creative, and enjoy problem-solving, exploring ways to make things more efficient, and understanding how and why things work the way they do. When I’m not coding, you can find me reading, hiking, dabbling in photography, and gardening. 
+
 Thanks for checking out my page!
 
 - 👀 I’m interested in full stack development, collaboration, learning, and building cool stuff.
 
-- 🌱 I’m currently learning  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+- 🌱 I’m currently learning  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="27" height="27"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="27" height="27"/> </a>
 
 - 👨‍💻 Checkout my portfolio  [🌐](https://nicholemcgrew.netlify.app/)
-
-- 💼 Learn about my experiences  [📄](https://drive.google.com/file/d/1OYvbClc3HtGKvx9IRFEA7iHCOBHBMjUm/view?usp=drive_link)
 
 - Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
 
