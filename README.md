@@ -15,7 +15,6 @@ Thanks for checking out my page!
 
 - 👨‍💻 Checkout my portfolio  [🌐](https://nicholemcgrew.netlify.app/)
 
-- Meyers-Briggs: [INTP](https://www.16personalities.com/intp-personality)
 
 ## 🌎 Let's Connect:
 <p align="left">
