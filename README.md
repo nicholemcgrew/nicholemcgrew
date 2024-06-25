@@ -52,9 +52,6 @@ Thanks for checking out my page!
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ## <h2>🐍 My Contributions 🐍</h2>
 ![snake gif](https://github.com/nicholemcgrew/nicholemcgrew/blob/output/github-contribution-grid-snake-dark.svg)
 
